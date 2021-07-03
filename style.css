@@ -1,0 +1,39 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Title{
+text-align: center;
+
+}
+.greeting{
+    text-align: center;
+    text-underline-position: below;
+    border-bottom: solid;
+    border-width: 2px;
+}
+.Camel {
+    border: solid;
+    border-radius: 25%;
+    position: relative;
+  border-spacing: inherit;
+  width: 200px;
+  height: 200px;
+   
+}
+.cicada{
+    border: solid;
+    border-radius: 25%;
+    position: relative;
+     width: 200px;
+     height: 200px;
+}
+.panda{
+    border: solid;
+    border-radius: 25%;
+    position: relative;
+  border-spacing: inherit;
+  width: 200px;
+  height: 200px;
+}
+
+
