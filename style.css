@@ -7,9 +7,8 @@ text-align: center;
 }
 .greeting{
     text-align: center;
-    text-underline-position: below;
     border-bottom: solid;
-    border-width: 2px;
+
 }
 .Camel {
     border: solid;
@@ -18,7 +17,8 @@ text-align: center;
   border-spacing: inherit;
   width: 200px;
   height: 200px;
-   
+   padding: 0px;
+   margin: 10px;
 }
 .cicada{
     border: solid;
@@ -26,6 +26,8 @@ text-align: center;
     position: relative;
      width: 200px;
      height: 200px;
+     padding: 0px;
+     margin: 10px;
 }
 .panda{
     border: solid;
@@ -34,6 +36,15 @@ text-align: center;
   border-spacing: inherit;
   width: 200px;
   height: 200px;
+  padding: 0px;
+  margin: 10px;
+}
+
+.Images{
+  display: flex;
+  margin: 40px;
+  
+
 }
 
 
